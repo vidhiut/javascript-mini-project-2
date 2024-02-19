@@ -12,4 +12,4 @@ The rectangle returns to white when the mouse leaves its area.
 what i learned
 1.gsap-->maprange fun
 2.event listner
-3.
+3.getBoundingClientRect()-->to get the co-ordinates of the rectangle
