@@ -9,3 +9,7 @@ It calculates the horizontal position of the mouse relative to the rectangle's l
 Based on the mouse position, it maps the color transitions from dark red to transparent (left half) or from dark blue to transparent (right half) using GSAP's mapRange function.
 The rectangle returns to white when the mouse leaves its area.
 
+what i learned
+1.gsap-->maprange fun
+2.event listner
+3.
